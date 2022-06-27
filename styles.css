@@ -1,0 +1,194 @@
+#title{
+  background-color: #ff4c68;
+}
+
+h1{
+  line height: 1.5;
+  font-size: 4rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+h2{
+  color: #fff;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+
+h3{
+  font-weight: bold;
+}
+
+p{
+  color: #8f8f8f;
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem:
+  font-family: "Montserrat";
+}
+
+.donwload-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  right: 30%;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 4.5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+#press{
+  text-align: center;
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.price{
+  color: black;
+}
+
+.text{
+  color: black;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.btn:hover{
+  background-color: #ff4c68;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.love{
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.donwload-button{
+  margin: 5% 3% 5% 0;
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Montserrat-Bold";
+}
+
+/*pricing*/
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: black;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+/*testimonial*/
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#testimonials{
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.plans{
+  font-weight: bold;
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+
+.section-heading{
+  color: black;
+  padding-bottom: 25px;
+  font-weight: bold;
+}
